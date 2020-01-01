@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: monospace, Arial;
+    font-size: 26px;
+    background-color: #d8d8d8;
+}
+
+
+    nav{
+        border:solid 30px ;
+        border-radius:100px;
+        background-color:none;
+        height:75px;        
+    }
+    
+    h1{
+       text-align:center;
+       font-family:monospace;
+       font-size:230%;
+       font-weight:900;
+       color:black;
+    }
+    
+    h3{
+       text-decoration: underline;
+    }
+
+    a.infobutton {
+    width: 50px;
+    height: 100px;
+    }
+
+    img.pfp {
+        border-radius:400px;
+
+    }
+
+    p.partone{
+        line-height:100px;
+    }
+
+    div.first paragraph {
+        border:solid 5px;
+        border-radius:5px;
+    }
